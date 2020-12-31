@@ -1,5343 +1,1 @@
 sentence|offsets|correction|old_type|new_type|comment"On the other hand , the theatre restaurant was closed because unknown reasons ."|0 4|for|R:OTHER|R:PREP|A subordinate conjuction that needs to be replaced with a preposition- different POS"On the other hand , the theatre restaurant was closed because unknown reasons ."|0 4|for|R:OTHER|R:CONJ|A subordinate conjuction that needs to be replaced with a preposition- different POS"There was only a person who used to call her by this name ."|3 4|one|R:OTHER|R:DET|Cardinal numbers can be considered determiners"At this moment Carole was living with her husband but they did n't love each other any more ."|1 3||R:OTHER||"It was so long time to wait in the theatre ."|2 3||R:OTHER||"I WANT TO THAK YOU FOR PREPARING SUCH A GOOD PROGRAMME FOR US AND ESPECIALLY FOR TAKING US TO THE RIVER TRIP TO GREENWICH ."|18 19|on|R:OTHER|R:PREP|"I WOULD LIKE TO KNOW IF THERE IS ANY CHANCE OF CHANGING THE PROGRAMME BECAUSE WE HAVE FOUND A VERY INTERESTING ACTIVITY TO DO ON TUESDAY 14 MARCH . IT CONSISTS ON VISITING THE LONDON FASHION AND LEISURE SHOW IN THE CENTRAL EXHIBITION HALL ."|30 32|involves|R:OTHER|R:VERB|Two-token mistake."ON THE OTHER HAND , WE COULD LEARN THE DIFFERENT WAYS TO GET TO THE CENTRAL EXHIBITION HALL ."|0 4||R:OTHER||"I WILL BE WRITING ANXIOUSLY FOR YOUR RESPONSE ."|3 4|waiting|R:OTHER|R:VERB|"THIS SITUATION AFFECTS FAMOUS PERSONAL LIVES BECAUSE THEY ARE NOT ALLOWED TO HAVE PRIVACY"|4 6||R:OTHER||"THE MOST IMPORTANT THING IS THAT , ALTHOUGH THEY ARE FAMOUS , THEY ARE JUST NORMAL PEOPLE THAT DESERVE TO HAVE A PRIVATE LIFE WITHOUT JOURNALISTS AND FANS FOLLOWING THEM ALL THE TIME , AND ON THE OTHER HAND PEOPLE HAVE TO LEARN TO RESPECT THE FAMOUS RIGHT TO KEEP THEIR PERSONAL LIVES IN SECRET ."|46 48||R:OTHER|NOUN:POSS|Clearly a possessive case issue, however, it does not satisfy the requirements to be in the M,R,U categories"It is in the Central Exhibition Hall and will start and ten o'clock and finish at five o'clock in the evening ."|10 11|at|R:OTHER|M:PREP|"Unfortunately , only six countries were represented this year at the festival , but I hope that soon there would be much more of them ."|21 22|many|R:OTHER|R:DET|Quantifiers can be used as determiners before nouns"Then , I want to say , that plays and films were exellent , but it was n't enough of them for me ."|15 16|there|R:OTHER||"And at the end , my opinion is that one weekend ticket for all events is a great idea , because you do n't have to stay in queues to buy a ticket for a show , you want to go to ."|1 4||R:OTHER||"What are you dong here , why are n't you at school ? '"|3 4|doing|R:OTHER|R:SPELL|"Paul was like paralyzed ."|2 3||U:OTHER||"If no , what do you sugest ?"|1 2|not|R:OTHER|R:MORPH|"Other thing I had to do is keep an eye in the towels , I mean , dried towels because as you know that country is too hot , especially for my liking , as they have to change the clothes and looks fresh ; do n't ask me why ."|34 35|and|R:OTHER|M:CONJ|"But what I particularly liked was see and ask autographs from the rest of the others groups ."|6 17||R:OTHER||"The festival was excenent in many ways , and especially it being an international festival was a challenging , but brilliant idea ."|9 10||R:OTHER||"Furthermore , I found that there were not many genres of neither the films nor the plays ."|11 15||R:OTHER||"So I suggest you have various kinds , and more numbers of plays and films next year ."|10 12||U:OTHER||"I was very disappointing a week holiday for me because I had got a lot of problem with the show ."|7 9||U:OTHER||"When I went to asked for the discount of ticket in the cashier desk they told me no discount available for this ."|20 22||U:OTHER||"The carbon dioxide are growing very fast and people cut more trees , therefore not enough trees to such carbon dioxide and produce oxygen ."|1 1||M:OTHER||"The carbon dioxide are growing very fast and people cut more trees , therefore not enough trees to such carbon dioxide and produce oxygen ."|14 14||M:OTHER||"The carbon dioxide are growing very fast and people cut more trees , therefore not enough trees to such carbon dioxide and produce oxygen ."|18 19||R:OTHER||"I think I can win this price , because this clothe will produce in the future soon ."|14 17||R:OTHER||"MY NAME JAMES CAMIREZ AND I'AM WRITING THIS LETTER TO YOU BECAUSE I HAVE SOME COMPLEINTS FOR THE DISAPPOINTING EVENING I HAD LAST NIGHT ."|5 6|I am|R:OTHER|R:CONTR|"FIRST OF ALL ON THE ADVERTISEMENT FOR THE SHOW IT SAYS THAT THE ACTOR WAS GOING TO BE DANNY BROOK AND INSTEAD OF HIM WAS A TOTALLY UNKNOWN CLOWN THAT HAD NO IDEA OF HOW TO ACT , IT WAS HORRIBLY DISAPPOINTING !"|3 4|in|R:OTHER|R:PREP|"SECOND I GOT TO THE THEATRE AT 19.20 BECAUSE IN THE ADVERTISEMENT IT CLEARLY APPEARS THAT THE SHOW STARTS AT 19.30 , AND I GOT HEAVILY MAD WHEN I LOOK MY WATCH AND NOTICE THAT I HAD BEEN WAITING FOR 40 ( FORTY ) MINUTES AND THE SHOW DIDN'T START YET ... I MEAN I WAS AMAIZING !"|14 15|states|R:OTHER|R:VERB|"SECOND I GOT TO THE THEATRE AT 19.20 BECAUSE IN THE ADVERTISEMENT IT CLEARLY APPEARS THAT THE SHOW STARTS AT 19.30 , AND I GOT HEAVILY MAD WHEN I LOOK MY WATCH AND NOTICE THAT I HAD BEEN WAITING FOR 40 ( FORTY ) MINUTES AND THE SHOW DIDN'T START YET ... I MEAN I WAS AMAIZING !"|25 26|really|R:OTHER|R:ADV|"OH I'M GETING MAD AGAIN SO I'AM GOING TO TELL YOU THE LAST THING , IT WAS THE HORRIBLE NIGHT I HAD EVER GOT SO I DEMEND FOR MY MONEY BACK !"|6 7|I am|R:OTHER|R:CONTR|"OH I'M GETING MAD AGAIN SO I'AM GOING TO TELL YOU THE LAST THING , IT WAS THE HORRIBLE NIGHT I HAD EVER GOT SO I DEMEND FOR MY MONEY BACK !"|11 12||R:OTHER||"OH I'M GETING MAD AGAIN SO I'AM GOING TO TELL YOU THE LAST THING , IT WAS THE HORRIBLE NIGHT I HAD EVER GOT SO I DEMEND FOR MY MONEY BACK !"|23 24|had|R:OTHER|R:VERB|"NOW WITH MODERN MACHINES I CAN MAKE A BETTER USE OF MY TIME , IF I'AM LATE TO GO TO TRAINING AND I HADN'T IT YET I JUST TAKE MY FOOD AND PUT IT IN THE MICROWAVEOVEN ."|15 16|I am|R:OTHER|R:CONTR|"ANOTHER EXAMPLE IS THE COMPUTERS , I THINK THEY ARE ONE OF THE MOST ADVANCED MACHINE IN THE WORLD , YOU CAN LIVE YOUR ENTIRE LIFE IN A HOUSE WITHOUT GOING OUT , BY JUST USING THE INTERNET , IT HAS ALSO HELPED ME IN MY SCHOOL HOMEWORK , I MEAN IT 'S INCREDIBLE THE TIME YOU WAIST BY MAKING THING WITHOUT A COMPUTER ."|10 11||R:OTHER||"ANOTHER EXAMPLE IS THE COMPUTERS , I THINK THEY ARE ONE OF THE MOST ADVANCED MACHINE IN THE WORLD , YOU CAN LIVE YOUR ENTIRE LIFE IN A HOUSE WITHOUT GOING OUT , BY JUST USING THE INTERNET , IT HAS ALSO HELPED ME IN MY SCHOOL HOMEWORK , I MEAN IT 'S INCREDIBLE THE TIME YOU WAIST BY MAKING THING WITHOUT A COMPUTER ."|59 60|doing|R:OTHER|R:VERB|"THIS CAN BE BAD TO BECAUSE IF I GET USED TO BE CONFORTABLE WHEN I NEED TO DO HARD WORKS I WON'T BE ABLE TO DO THEM ."|4 5||R:OTHER||"THIS CAN BE BAD TO BECAUSE IF I GET USED TO BE CONFORTABLE WHEN I NEED TO DO HARD WORKS I WON'T BE ABLE TO DO THEM ."|25 27||U:OTHER||"1th , June , 2000"|0 4||R:OTHER|U:PUNCT|"How is the weather like in California in July ?"|0 1|what|R:OTHER||suggestion: question word category? "Everyone likes sale , but those so - called sale items are not really of value ."|14 15|good|R:OTHER|M:OTHER|"Also supermarket owners have put in a vast amount of money to find out the best way to place goods in order to get the most profit ."|4 6|invested|R:OTHER|R:VERB|"Therefore , we become impulsive buyers easily under these tricks ."|8 8||M:OTHER||"I do n't think anyone would really like to face them ."|5 8||R:OTHER||"If we came back to the past , we felt everything , it was so difficult to do , we would have plane and done by ourself and last time ."|26 27|ourselves|R:OTHER|R:NUM|"In the present , the teachnology is a past of life ."|0 3||R:OTHER||"Regarding the programme you have organised , it is great ideas everything that you have planed , but I would like to suggest to you something that the students saw in an advertisement ."|7 16||R:OTHER||"Regarding the programme you have organised , it is great ideas everything that you have planed , but I would like to suggest to you something that the students saw in an advertisement ."|23 25||U:OTHER||"The idea about going to science museum is fantastic , I read about the museum , it is really interesting in science history ."|21 23||R:OTHER||"On Wednesday after viseted national Art Gallery , we can have a chat about ours next holiday at the free time in the afternoon ."|3 3||M:OTHER||"Sometimes being famous can get stress , everywhere they go there are people around them , especially journalists , trying to ask millions questions ."|5 6|stressful|R:OTHER|R:MORPH|"Famous people deserve to have freedom to do whatever they want , but it is quite difficult to do thing in a public places , because nobody like famous politicians or film stars without asking questions ."|27 28||R:OTHER||"Then at the tickets - office I was said that no discounts were available so I had to pay the full prize despite I am a student ."|3 5|ticket|R:OTHER|R:NUM|"Then at the tickets - office I was said that no discounts were available so I had to pay the full prize despite I am a student ."|23 23||M:OTHER||"I am really not satisfied with the show - organization particularly because in the advertisement you wrote something different ."|7 10||R:OTHER||"Obviously Ted should have known nothing about it and we remembered it to Pat twice : "" the party is a secret ! ! "" and she said : "" Yes , it must be a surprise ! """|10 14||R:OTHER||"It will be held in Central Exhibition Hall , London or Tuesday March 14 from 10.00 to 19.00 ."|10 11|on|R:OTHER|R:SPELL|"It will be held in Central Exhibition Hall , London or Tuesday March 14 from 10.00 to 19.00 ."|10 11|on|R:OTHER|R:PREP|"However , instead of going to Army , I was able to apply to Korea Auxiliary Police ."|14 14||M:OTHER||"Suddenly , the theft signal came into ."|3 5||R:OTHER||"When we arrived at the place which it happened , one man started running away ."|6 7|where|R:OTHER||suggestion: question word category? "When I said to my mother , she asked me not to do it again ."|2 4|told|R:OTHER|R:VERB|"But , I was a police - man ."|5 8|policeman|R:OTHER|R:SPELL|"However , I would choose sailing because I am facinating with the sea and it 's misteries and I also like the watter , the wind in my face ..."|14 16||R:OTHER||"Although it was 5.000 thousand people there , people could walk and dance without any problem ."|1 2||R:OTHER||"Although it was 5.000 thousand people there , people could walk and dance without any problem ."|3 4||R:OTHER||"It was very well organised , the shows started in the exactly time and the group were well performed too ."|9 11||U:OTHER||"I have just received your letter which is made me so hapy . I can not belive that I won first prize in your competition , because I always belived I am an unluky man and now I think somethings are changing in my life ."|28 30||R:OTHER||"I would like to come in July , because I am studying English and we have one month break at July , so please make my log cabin ready by july ."|24 29||R:OTHER||"I used to be play in school team when I was in high school and our team was the one of the best Basketball team in all county and I also very good at swim ."|26 27||R:OTHER||"I would like to ask a few things , specialy wheather : how is the weather in July in the U.S.A. What kind of clothes I will need and how much money I should take with me , Because I have never been U.S.A. before and I do n't know anything"|12 13|what|R:OTHER||suggestion: question-word category."I would like to ask a few things , specialy wheather : how is the weather in July in the U.S.A. What kind of clothes I will need and how much money I should take with me , Because I have never been U.S.A. before and I do n't know anything"|20 21|U.S.A?|R:OTHER|R:PUNCT |"I would like to ask a few things , specialy wheather : how is the weather in July in the U.S.A. What kind of clothes I will need and how much money I should take with me , Because I have never been U.S.A. before and I do n't know anything"|51 51||M:OTHER||"I am looking forward to your reply letter ."|6 8||R:OTHER||"Your sincerely"|0 1|Yours|R:OTHER|R:PRON|"I have never enjoyed doing shopping , but nowday some people are calling shopcholic ."|9 9||M:OTHER||"They are just like alcholics and this people are every day doing shopping because they can not stop themself unless they have not got money for spend ."|8 13||R:OTHER||"I can not believe how they doing this things every day , even when I need something at home I alway try to find out something to use instead of that things ."|29 32||U:OTHER||"The queue is not only the problem if you go by car there is parking problem , if you go by bus there is again queue and you have to carry many carry bag carrier bags during the your journey and you wo n't be alway luky to find a seat to seat ."|14 16||R:OTHER||"The queue is not only the problem if you go by car there is parking problem , if you go by bus there is again queue and you have to carry many carry bag carrier bags during the your journey and you wo n't be alway luky to find a seat to seat ."|31 32||R:OTHER||"The queue is not only the problem if you go by car there is parking problem , if you go by bus there is again queue and you have to carry many carry bag carrier bags during the your journey and you wo n't be alway luky to find a seat to seat ."|44 46|always be|R:OTHER|R:WO|"The queue is not only the problem if you go by car there is parking problem , if you go by bus there is again queue and you have to carry many carry bag carrier bags during the your journey and you wo n't be alway luky to find a seat to seat ."|44 46|always be|R:OTHER|R:SPELL|"If you go shopping for ( buy ) clothes that is the worse kind of shopping ."|5 8||U:OTHER||"Specialy if you want to buy with your girlfriend or if you are already girl you have to be read for hours to spend try on and off ."|19 20||R:OTHER||"Specialy if you want to buy with your girlfriend or if you are already girl you have to be read for hours to spend try on and off ."|26 28|ready|R:OTHER|R:SPELL|"I realy hate go shopping with girls to buy clothes because when they went into a shop they want try on every single cloth and they do not realise to time ."|23 24|clothes|R:OTHER|M:NOUN|"I realy hate go shopping with girls to buy clothes because when they went into a shop they want try on every single cloth and they do not realise to time ."|29 30||R:OTHER||"Secondly , I must complain that the musical show started almost an hour later and in addition to this anyone did n't excuse ."|19 23||R:OTHER||"Your faithfully"|0 1|Yours|R:OTHER|R:PRON|"Mr. Manager :"|0 1||R:OTHER||"Firstly when I went to the show it was writing that the starting time was 19.30 but it started at quarter past eight I had waitted for fourthey five minutes ."|27 28|forty-|R:OTHER|R:SPELL|"And as last that was the worse night I had ever had so I asked for my money back but they would n't give it so I had an argument with the people Who worked their but I could n't get my money back ."|35 36||R:OTHER||"Because last year I started smoking and nobody knew that I was smoking but one day as I was smoking at the back of the school some one came next to me and I noticed that it was Pat ."|29 30|up|R:OTHER|R:PREP|"She said that she would n't tell it to anyone but I knew she might say it to someone so I always was with her very minute ever second ."|7 9||U:OTHER||"She said that she would n't tell it to anyone but I knew she might say it to someone so I always was with her very minute ever second ."|25 26|every|R:OTHER|R:SPELL|"She said that she would n't tell it to anyone but I knew she might say it to someone so I always was with her very minute ever second ."|27 28|every|R:OTHER|R:SPELL|"But one day as I was walking home like every night I saw Pat at the front of our house door talking to my dad ."|14 16|in|R:OTHER|R:PREP|"I could n't go out of the house for a month so now I know how Pat is and ca n't keep any secrets ."|19 19|that she|M:OTHER||"I 'm writing to you to complain about the musical show you present at the moment : "" Over the Rainbow "" ."|12 13|are putting on|R:OTHER|R:VERB|"I 'm writing to you to complain about the musical show you present at the moment : "" Over the Rainbow "" ."|12 13|are putting on|R:OTHER|R:VERB:TENSE|"Your theatre is known to present excellent spectacles ."|5 6|put on|R:OTHER|R:VERB|"We were never disappointed so far and especially enjoyed "" The Drama "" you presented last year ."|4 6|before|R:OTHER|R:ADV|"Therefore I ask you to give use £ 20 back , because the two tickets were not more worth ."|6 7|us|R:OTHER|R:SPELL|"It was so hot , I decided to go for a swim in tutry , although I had n't any swimming - clothes ."|21 23|costume|R:OTHER|R:NOUN|"They drove me to their office after having given me use of their shirt ."|10 13|a|R:OTHER||"I am recommending you to check your possible time to work - weekdays or weekend ? - before you request a job ."|19 20|apply for|R:OTHER|R:VERB|"I am recommending you to check your possible time to work - weekdays or weekend ? - before you request a job ."|19 20|apply for|R:OTHER|M:PREP|"Secondly , as your family or friends ."|2 3|ask|R:OTHER|R:SPELL|"As it is said in your advertisement , the show is starring Danny Brook but there was different actor ."|19 19|on stage|M:OTHER||"Everything was just vice versa ."|3 5|the reverse|R:OTHER||"But she told it to very kid in school , even the teachers heard it ."|5 6|every|R:OTHER|R:SPELL|"Secondly , I had some ideas for the next year events , such as :"|14 14|the following|M:OTHER||"In addictions , the ticket 's price is too expensive and difficult to buy another one every day , so , I think is more effective if was one reasonably - priced weekend ticket for all events ."|4 7|ticket|R:OTHER|R:NOUN:NUM|"In addictions , the ticket 's price is too expensive and difficult to buy another one every day , so , I think is more effective if was one reasonably - priced weekend ticket for all events ."|11 11|it is|M:OTHER||"In addictions , the ticket 's price is too expensive and difficult to buy another one every day , so , I think is more effective if was one reasonably - priced weekend ticket for all events ."|14 15|a new|R:OTHER||"I remember these time in our class when us talking many time about rules and I am missing that time so much ."|10 11|for a long|R:OTHER||"Well , about rules in my contry , is not different than another countries ."|8 8|the situation|M:OTHER||"Well , about rules in my contry , is not different than another countries ."|12 13|other|R:OTHER|R:ADJ|"First of all , the actor was different from your advertisement ."|9 9|the one mentioned in|M:OTHER||"Besides this , the theatre restaurant was early closed ."|6 9|closed early|R:OTHER|R:WO|"It was so close to be on his birthday , so we made a decision to hold a small party for him ."|5 7||U:OTHER||"She has just learnt with us for three weeks ."|1 4|had just been studying|R:OTHER||"However , this party she took part in , she was responsible for preparing food ."|5 8|came to|R:OTHER||"Finally , I think it was a good idea the fact to buy only one ticket for all the events since I just spent the time watching and enjoying all of them ."|9 11||U:OTHER||"Your sincerely"|0 1|Yours|R:OTHER|R:SPELL|"Your sincerely"|0 1|Yours|R:OTHER|R:PRON|"At home everything is quite good , mum and dad are great but there 's one main rule I must tell them were I go and what time I 'll come back ."|22 23|where|R:OTHER|R:SPELL|"She usually tells me what to do and what kind of clothes I should wear but I do n't care about it ."|19 22|take any notice of her|R:OTHER||"Especially I believe that the visit to the National Art Gallery will be a really exciting experience for all of us ."|0 1|In particular|R:OTHER||"It will take place on Tuesday from 10.00am to 19.00pm , so we could give up the shopping and go to the show in the afternoon ."|9 10|7.00pm|R:OTHER||"Being famous and risk is something all of us have dreamt of sometimes ."|1 4|rich and famous|R:OTHER|R:SPELL|"Being famous and risk is something all of us have dreamt of sometimes ."|12 13|at some time|R:OTHER|R:NOUN|"Being famous and risk is something all of us have dreamt of sometimes ."|1 4|rich and famous|R:OTHER|R:WO|"But not always famous people are happy of their condition ."|1 6|famous people aren't always|R:OTHER||"There is no surprise to this answer : famous people can not have their own private life ."|0 7|This answer is no surprise |R:OTHER||"Also the most famous star can be unhappy and depresed : not always , in fact , money and celebrity being happiness ."|11 21|In fact, money and celebrity don't always bring|R:OTHER||"It is no doubt that functions and structures of the home have been changing as well as that of transformation , for example , have been ."|0 1|There|R:OTHER||"New materials will surly change the home of the future in any ways ."|11 12|many|R:OTHER|R:SPELL|"Hopefully , the minds of people will stay peaceful and tender in the future ."|10 11|gentle|R:OTHER|R:ADJ|"So I am unable to go on holiday to another time ."|8 10|at any other|R:OTHER||"I think it is also important to present a comercial english lesson , maybe the pupils could write "" offers and orders "" or enquiries on the blackboard ."|9 10|business|R:OTHER||"The smokers in the school yard , the buffett and the other pupils , who are sitting in front of their tables writing their homework ."|17 20|at|R:OTHER|R:PREP|"I think then we should film an informatic - lesson ."|7 9|information|R:OTHER||"It 's really funny to see the helpless teacher , who wants to go on writing in excel or a word text , while the computers do not work or brake down ."|15 16|working|R:OTHER|R:VERB|"Especially I was disappointed by Danny Brook who made me nervous with his lack of talent ."|0 1|In particular|R:OTHER||"Come back to paradise"|0 2|Return|R:OTHER||"That 's why I believe in the solution which is the closest to human nature and can help us to omit the boredome I am sure that at last we will take off our clothes and in the future we will be undressed and free there wo n't be any problem with being up - do - date ."|27 29|eventually|R:OTHER||"Thanks to computers , phones , mobile phones , internet I can communicate with other people faster than I was able to do before ."|9 9|and the|M:OTHER|M:CONJ|"Thanks to computers , phones , mobile phones , internet I can communicate with other people faster than I was able to do before ."|9 9|and the|M:OTHER|M:DET|"First of all , I spend too much time indoors playing computer or watching TV . I know that if I want to keep fit and stay healthy , I must take up some sport ."|11 11|on the|M:OTHER|M:PREP|"First of all , I spend too much time indoors playing computer or watching TV . I know that if I want to keep fit and stay healthy , I must take up some sport ."|11 11|on the|M:OTHER|M:DET|"By the other side , I have never climbed a mountain but I always wanted to do it ."|0 4|on the other hand|R:OTHER||"I thing it is a great opportunity for us , as it is at the time of our being in London and is free of charge for students ."|1 2|think|R:OTHER|R:SPELL|"I hope you will consider this proposition and I am looking forward to hearing form you ."|14 15|from|R:OTHER|R:SPELL|"First of all , it would be greater if there were more famous people who have various nationalities ."|14 16|of|R:OTHER||"Of course , you ca n't afford a luxualy car and a large apartment unless you 've born with a silver spoon ."|16 22|re born with a silver spoon in your mouth|R:OTHER||"Not only it 's a simple job , but also you can enjoy working with many colleague at your age ."|2 4|is it|R:OTHER|R:WO|"Not only it 's a simple job , but also you can enjoy working with many colleague at your age ."|15 16|a lot of|R:OTHER||"Dir Madam"|0 1|Dear|R:OTHER|R:SPELL|"In addition in such kind of shops prizes are very high , of course not all of them ."|3 4|this|R:OTHER|R:DET|"I my opinion the worst thing which may happened is extremly hugh queu to the changing room ."|0 1|In|R:OTHER|R:SPELL|"I my opinion the worst thing which may happened is extremly hugh queu to the changing room ."|11 12|long|R:OTHER|R:ADJ|"On balance I think that shopping should be a nice thing so if you have bad mood do n't go shopping ."|14 15|are in |R:OTHER||"First of all , I want to thank you in the name of the class for your good organisation and programme , Especially for the fact that you are giving us some free time ."|9 12|on behalf|R:OTHER||"The show is on Tuesday the 14th of March , from 10 oo to 19 oo o'clock in the Central Exhibition Hall ."|12 16|to 7|R:OTHER||"There will be shown the latest fashions about leisure and sports wear , make up and hairstyles ."|0 17|The latest fashions in leisure and sports wear, make-up and hairstyles will be shown there|R:OTHER||"The yellow press is searching for every little information they can get ."|8 8|bit of|M:OTHER||"The photographers are chasing these people , just to take a picture of them on how they eat or with who the meat ."|14 15|to show|R:OTHER||"The photographers are chasing these people , just to take a picture of them on how they eat or with who the meat ."|22 23|meet|R:OTHER|R:SPELL|"The price for fame and money is the lost of privacy ."|8 9|loss|R:OTHER||"As well as this , the stars should n't complaint at any time about their fans and their lost of privacy ."|18 19|loss|R:OTHER||"They wanted to be famous and the had known the price before ."|11 12|beforehand|R:OTHER|R:ADJ|"Instead of half past seven the show startet at quarter past eight . I could n't go to have a refreshment because of two reasons , the first one is that there was no information how much time the start of the show is going to be late ."|36 38|long|R:OTHER||"The second reason is that the restaurant of the theatre was closed because of building plans for the next two month ."|6 10|theatre restaurant|R:OTHER||"The second reason is that the restaurant of the theatre was closed because of building plans for the next two month ."|12 21|for the next two months because of building plans|R:OTHER||"After I waited for about 45 minutes the show suddenly started but I had to realize that the main actor Danny Brook , who was the reason why I went into the show had been traded by an other actor , who could n't sing as half as good then Brook ."|48 49|well|R:OTHER|R:ADJ|"After I waited for about 45 minutes the show suddenly started but I had to realize that the main actor Danny Brook , who was the reason why I went into the show had been traded by an other actor , who could n't sing as half as good then Brook ."|49 50|as|R:OTHER||"To make an result the evening in your theatre and the show was very disappointing and not like promised ."|1 4|conclude|R:OTHER||"To make an result the evening in your theatre and the show was very disappointing and not like promised ."|18 18|the one|M:OTHER||"For these reasons I want to ask you to get my money of £ 25 back ."|8 10|for|R:OTHER||"Sarah looked at him for a while , than she stood in front of the class and explaind to the others , that she won a prize for 20 people to travel for 1 week to the sea of southern France and everybody of the 19 pupils was invited , except Pat who was n't very good at keeping secrets ."|8 9|then|R:OTHER|R:SPELL|"Sarah looked at him for a while , than she stood in front of the class and explaind to the others , that she won a prize for 20 people to travel for 1 week to the sea of southern France and everybody of the 19 pupils was invited , except Pat who was n't very good at keeping secrets ."|42 43|every one|R:OTHER||"I am waiting this letter re fearing to the show "" over the Rainbow "" you presented the 10 of this month ."|5 7|referring|R:OTHER|R:SPELL|"I am waiting this letter re fearing to the show "" over the Rainbow "" you presented the 10 of this month ."|5 7|referring|R:OTHER|R:ORTH|"But , the quality of this show was n't what you let understand , an I feel realy disappointed by it ."|11 13|let me to believe it would be|R:OTHER||"But , the quality of this show was n't what you let understand , an I feel realy disappointed by it ."|14 15|and |R:OTHER|R:SPELL|"First of all , you presented a starring composed with Danny Brook , but he was n't there !"|8 10|including|R:OTHER||"So you can imagine how I am satisfied by your pretending "" Perfect Evening "" ."|11 11|it would be a|M:OTHER||"The police arrived twenty minutes later , took my mother and checked to see what could be interesting to find the murder : lucky , the knife which he used to kill her was still here and in fact they could arrested him ."|40 41|were able to|R:OTHER||"They found hime two months after and six months after he was in jail ."|5 6|later|R:OTHER|R:ADV|"They found hime two months after and six months after he was in jail ."|9 10|later|R:OTHER|R:ADV|"Finally , after the show we had planed to eat diner at the theatre restaurant and we were very disappointed when it turned out to closed ."|2 11|we had planned to eat dinner after the show|R:OTHER||"Your sincerely ,"|0 1|Yours|R:OTHER|R:SPELL|"Unfortunately , Pat was n't very good at keeping secrets and the rumours describing me stealing soon reached the director 's office ."|13 14|about|R:OTHER||"The same evening my father pronounced a few words : ' May this be the end of your thief career we are only ready to forgive if you promiss never to start again '"|0 2|That|R:OTHER||"The same evening my father pronounced a few words : ' May this be the end of your thief career we are only ready to forgive if you promiss never to start again '"|18 20|career as a thief|R:OTHER||"In the second place I add that I would prefer an accomodation in a tent , even though it is not very comfortable , because I want to put myself to the test by living in a condition I am not used to ."|10 12|to stay|R:OTHER||"Most of the students agree in saying that two are the main features of our daily life at school which should be filmed : it would be very funny to dwell on us working and speaking together without the help of the teacher to show our efforts and sometimes successful and sometimes ridiculous and also to film some amusing moments we spent waiting for the teacher ."|8 8|there are|M:OTHER||"Most of the students agree in saying that two are the main features of our daily life at school which should be filmed : it would be very funny to dwell on us working and speaking together without the help of the teacher to show our efforts and sometimes successful and sometimes ridiculous and also to film some amusing moments we spent waiting for the teacher ."|9 11||U:OTHER||"A little percentage , on the contrary , said it would be very useful to film the teacher when she is explaining us something important , to give the idea of the real life in our classroom . which is the most ."|21 25|something important to us|R:OTHER||"Then , I was forced to wait fourty five minutes to see the show because it started at 20:75 in stead of 19:30 and when it finally started , I was really disapointed to see that the actors were n't Danny and Tina as it said on the anouncement ."|7 8|forty-|R:OTHER|R:ORTH|"Then , I was forced to wait fourty five minutes to see the show because it started at 20:75 in stead of 19:30 and when it finally started , I was really disapointed to see that the actors were n't Danny and Tina as it said on the anouncement ."|7 8|forty-|R:OTHER|R:SPELL|"Second of all , I would prefer to live in a tent ."|0 3|Secondly|R:OTHER||"The reason of my decision is that other activities are availiable to take also in my county , except climbing , but I have fear of heights so this one is not destinated for people like me ."|10 14|also available|R:OTHER||"That 's why I suppose , that man 's clothes will be becoming more and more light ."|13 17|lighter and lighter|R:OTHER||"At Camp California , I hope I will be in tents because I like very much this kind of style life : I love the contact with the nature ."|24 25|to be in|R:OTHER||"On the other handDuring my stay in Camp California , I want to go swimming because I practice this activitie regularly and I often do competitions : this is one of my hobbies ."|0 4|During|R:OTHER|R:ORTH|"In addition to this , I wish I am going to sail : I have never try it , but it seems to be great !"|7 9||U:OTHER||"In addition to this , I wish I am going to sail : I have never try it , but it seems to be great !"|10 12|sailing|R:OTHER|R:VERB:FORM|"As soon as all the conections was made , we tested the nivel of the sound : I found it too loud , so I advised them to regular it , and they listed to me !"|12 16|volume|R:OTHER|R:NOUN|"Moreover , I learnt a lot about music , especially concerning the way of using an instrument ."|11 14|how|R:OTHER||"My friends have seen an advertisement which is the London fashion and leissure show ."|10 14|Fashion and Leisure show|R:OTHER|R:ORTH|"My friends have seen an advertisement which is the London fashion and leissure show ."|10 14|Fashion and Leisure show|R:OTHER|R:SPELL|"We have decided it would be more interesting to see the latest fashions , make up , hairstyles instead of going to do shopping ."|18 20|than|R:OTHER||"We would suggest gong to this fabolous show ."|3 4|going|R:OTHER|R:SPELL|"Although I imagine my house in my future , I am sure I would be suprised when I had them ."|16 17|if|R:OTHER|R:CONJ|"The advertisement shew two actors but I was surprised to see as the main caracter a different person ."|2 3|showed|R:OTHER|R:SPELL|"The advertisement shew two actors but I was surprised to see as the main caracter a different person ."|2 3|showed|R:OTHER|R:VERB:TENSE|"The advertisement shew two actors but I was surprised to see as the main caracter a different person ."|11 18|a different person as the main character|R:OTHER||"As well as this , to my horror , the performance did n't start at 19.30 but forthy five minutes later ."|17 18|forty-|R:OTHER|R:ORTH|"As well as this , to my horror , the performance did n't start at 19.30 but forthy five minutes later ."|17 18|forty-|R:OTHER|R:SPELL|"Have a good feeling with it ! :"|0 5|Feel good about|R:OTHER||"On one side , the modern technology is extremely important , on the other hand you should n't abuse of it ."|0 3|on the one hand|R:OTHER||"Conclusion : I do think , however , the modern technology is essential for human being nowadays ."|8 9|that|R:OTHER|R:CONJ|"IN JULY WE HAVE GOT LOW SEASON AND IT WILL BE EASIER TO GO THEN ON HOLLYDAY ."|0 5|JULY IS THE|R:OTHER||"IN JULY WE HAVE GOT LOW SEASON AND IT WILL BE EASIER TO GO THEN ON HOLLYDAY ."|14 17|ON HOLIDAY THEN|R:OTHER|R:WO|"IN JULY WE HAVE GOT LOW SEASON AND IT WILL BE EASIER TO GO THEN ON HOLLYDAY ."|14 17|ON HOLIDAY THEN|R:OTHER|R:SPELL|"FROM THE ACTIVITIES I CHOOSE TENNIS AND SURFING . I PLAY TENNIS IN A CUP FOR FIVE YEARS BUT SURFING I HAVE NEVER DONE BEFORE ."|10 11|HAVE PLAYED|R:OTHER|R:VERB:TENSE|"WE NEED SOME SPECIAL SPORT CLOTHES FOR THIS TWO ACTIVITIES ? AND IS IT ALSO ALLOWED TO BRING MY DOG WITH ?"|12 15|AM I|R:OTHER||"YOU KNOW THAT I ALWAYS WANTED TO HELP AT A CONCERT . TO BE IN A STAFF TEAM WOULD BE WONDERFUL , I THOUGTH . AND I WAS RIGHT !"|14 16|PART OF THE|R:OTHER||"AS YOU KNOW I WROTE TO THAT ORGANISATION WHO IS ALWAYS RESPONSBLE FOR BIG EVENTS ."|8 9|WHICH|R:OTHER|R:PRON|"AFTER THE MEETING WE RECIEVED ALL THE SAME CLOTHES ."|4 6|ALL RECEIVED|R:OTHER|R:WO|"AFTER THE MEETING WE RECIEVED ALL THE SAME CLOTHES ."|4 6|ALL RECEIVED|R:OTHER|R:SPELL|"Firstly , it was mentioned that there were going to be two starrings but , in fact , only an actor were performing on the show ."|19 20|one|R:OTHER|R:DET|"We would n't be able to sort out informations and datas this quickly ."|11 12|quickly|R:OTHER|R:ADJ|"Secondly , no one could communicate on the phone through countries or even through houses as immediate as nowadays ."|16 17|so|R:OTHER||"Put it in another words , modern technology has changed our life to became more advanced in every ways ."|3 4|other|R:OTHER|R:ADJ|"The even is planned on 14th of March between 10.00 am and 19.00 p.m. If it is possible we would like to ask you to change your programme ."|10 14|19.00 .|R:OTHER||"Your sincerelly"|0 1|Yours|R:OTHER|R:SPELL|"The things that really dissapointed me were that you said Danny Brook and Tina Truelove were suposed to be the actors but they were n't , different actors played and to be honest they made the hole show very bad ."|36 37|whole|R:OTHER|R:SPELL|"Another thing was that you said discounts are available which is very important for students , but no their were n't any ."|18 19|there|R:OTHER|R:SPELL|"Also after the show your restaurant was closed because their was n't enough staff ."|9 10|there|R:OTHER|R:SPELL|"Since everyone can afford modern technology the life of everyone in the more developed countries has changed completly ."|6 10|everyone's life|R:OTHER||"It starts already in the morning that we wake up by the sound of an alarm clock , than in the bathroom we have running hot water and also the hole house is warm due to central heating ."|6 7|when|R:OTHER|R:PRON|"It starts already in the morning that we wake up by the sound of an alarm clock , than in the bathroom we have running hot water and also the hole house is warm due to central heating ."|18 19|then|R:OTHER|R:SPELL|"It starts already in the morning that we wake up by the sound of an alarm clock , than in the bathroom we have running hot water and also the hole house is warm due to central heating ."|30 31|whole|R:OTHER|R:SPELL|"If we than want to go to work we do n't have to get our horse , no , we get the car keys and go where ever we want to ."|2 3|then|R:OTHER|R:SPELL|"Another point which caused some inconveniences was the timetable of the show ."|8 12|show's timetable|R:OTHER||"My fear turned out to be right ."|6 7|justified|R:OTHER||"She knew that I had bought my first bra without having asked her for advice before it ."|15 16|beforehand|R:OTHER||"We asked for it and we were told that there was not discount neither for her not for anyone else , so I had to pay the full price of the two tickets ."|11 12|no|R:OTHER||"We asked for it and we were told that there was not discount neither for her not for anyone else , so I had to pay the full price of the two tickets ."|13 14|either|R:OTHER|R:CONJ|"We asked for it and we were told that there was not discount neither for her not for anyone else , so I had to pay the full price of the two tickets ."|17 18|or|R:OTHER||"Furthermore , it was announced to start at 19.30 p.m. and it started at 20.15 p.m. for reasons anyone would explain to the audience ."|18 19|no one|R:OTHER|R:PRON|"After the play , we went to the theatre 's restaurant and we found out that it was closed since 1999 's spring !"|20 23|spring 1999|R:OTHER||"Of course , Ann promised not to tell anyone , but by the lunch - break all the school knew that Lise had stolen the literature exams ."|14 16|time|R:OTHER||"It was an unfair deal , but if they wanted the questions they had to accept , and if they accepted , they could n't tell anything to the teachers , because , in fact , they were as guilty as Lise ."|26 30|the teachers anything|R:OTHER||"I hope you 'll attend my suggestions ."|4 5|act on|R:OTHER||"Once upon a time , in a small Catalan village , there was a little boy who loved cheating and making jokes ."|18 19|fooling around|R:OTHER||"He did it more times , and at last nobody cared of the shoutings ."|7 9|in the end|R:OTHER||"He did it more times , and at last nobody cared of the shoutings ."|10 11|took any notice|R:OTHER||"Then he learned to say always the truth ."|3 6|always to tell|R:OTHER|R:WO|"Then he learned to say always the truth ."|3 6|always to tell|R:OTHER|R:VERB|"Secondly , I would prefer living in tents , I always admire outdoors life ."|10 12|have always admired|R:OTHER|R:VERB:TENSE|"Finally , I would like to surging and golf ."|6 7|surfing|R:OTHER|R:SPELL|"Your sincerely"|0 1|Yours|R:OTHER|R:SPELL|"You are working with your idea woman , I ca n't still belive that I spoke with her ."|5 6|ideal|R:OTHER|R:SPELL|"Now , I know how difficult to sing in front of the audience and behind the start there are a lot of the people who help the performance ."|6 6|it is|M:OTHER||"This is just one months which I 've fee ."|8 9|free|R:OTHER|R:SPELL|"I can sleep in tent , it would remain me a good time which I 'd spent with my friends a few years ago . I 'm not scared of darkness , rain , cold or hot whether ."|37 38|weather|R:OTHER|R:SPELL|"In swimming I 'm not as good as in basketball , but I 'd like to practise more and maybe learn something new about it ."|0 7|I'm not as good at swimming|R:OTHER||"In swimming I 'm not as good as in basketball , but I 'd like to practise more and maybe learn something new about it ."|8 8|I am|M:OTHER||"I would like to ask you , what sort of clothes shall I take with me ? I do n't want take too much ; jeans , jumper , swimming costium , T - shirt , sports shoes I think should b O.K."|41 42|be|R:OTHER|R:SPELL|"Know , I can just wait for July"|0 1|Now,|R:OTHER|R:SPELL|"Every - thing was O.K"|0 3|Everything|R:OTHER|R:ORTH|"According to your letter I have two options of accommodation , or in tents or log cabins ."|8 9|regarding|R:OTHER||"According to your letter I have two options of accommodation , or in tents or log cabins ."|11 12|either|R:OTHER|R:CONJ|"I would prefer in tents because I think that is something more exciting and new for me ."|3 4|a|R:OTHER||"The reason of choosing this two activities is that they contrast itselves , I want one more exciting and that asks for more agility and another more calm and relaxing , that asks only for my ability to paint ."|11 12|each other|R:OTHER|R:PRON|"The reason of choosing this two activities is that they contrast itselves , I want one more exciting and that asks for more agility and another more calm and relaxing , that asks only for my ability to paint ."|16 16|that is|M:OTHER||"The reason of choosing this two activities is that they contrast itselves , I want one more exciting and that asks for more agility and another more calm and relaxing , that asks only for my ability to paint ."|26 26|that is|M:OTHER||"Painting is something that I love and I am very good doing it ."|11 12|at|R:OTHER||"Is all the travel already paid including food and meals , or I have to bring some money ?"|1 2|everything|R:OTHER||"Your faithfully ,"|0 1|Yours|R:OTHER|R:SPELL|"You can not imagine how dissapointed I were with my ownself ."|9 11|myself|R:OTHER|R:PRON|"He was helping to put the materials of the concerts ( microphone ... ) on the stage ."|6 10|concert equipment|R:OTHER||"By my side the vocal of the Almendegos was and he touched my arm ."|0 9|The vocalist of the Almendegos was by my side|R:OTHER||"After all of this we saw the show in the best place , near of the stage and after , the thing that I most liked , we were convidated to see the group and had their signatures ."|18 19|afterwards|R:OTHER|R:ADV|"Note says that tickets has discounts available , but I bought my ticket and your people told me that there is not any discount for thicket ."|3 7|there are discounts available on tickets|R:OTHER||"Note says that tickets has discounts available , but I bought my ticket and your people told me that there is not any discount for thicket ."|21 23|no|R:OTHER||"I was really hungry and I went to other restaurant as soon as I can ."|8 9|another|R:OTHER|R:ADJ|"I was really disappointed about your threat and service , I hope I can get my money back and you can improve it . Than you for reading ."|24 25|Thank|R:OTHER|R:SPELL|"Science and technology can give us a better live style or better food ."|8 10|lifestyle|R:OTHER|R:SPELL|"Science and technology can give us a better live style or better food ."|8 10|lifestyle|R:OTHER|R:ORTH|"For example , before people have to walk from a place to the other , but now we can use sciene and technology to produce a lot of petrel transport and we can transport with them faster ."|3 4|once|R:OTHER|R:ADV|"For example , before people have to walk from a place to the other , but now we can use sciene and technology to produce a lot of petrel transport and we can transport with them faster ."|9 10|one|R:OTHER|R:DET|"For example , before people have to walk from a place to the other , but now we can use sciene and technology to produce a lot of petrel transport and we can transport with them faster ."|12 14|another|R:OTHER||"For example , before people have to walk from a place to the other , but now we can use sciene and technology to produce a lot of petrel transport and we can transport with them faster ."|28 29|petrol-|R:OTHER|R:SPELL|"For example , before people have to walk from a place to the other , but now we can use sciene and technology to produce a lot of petrel transport and we can transport with them faster ."|28 29|petrol-|R:OTHER|R:ORTH|"We also can produce more and better food or using science and technology . e.g. use science to put all the good part of two plants into one plant ."|8 9|by|R:OTHER||"Science and technology can also used for some material e.g. steel or iron , which use for our building , it can make it stronger and not easy to destroy ."|6 7|to produce|R:OTHER||"Science and technology can also used for some material e.g. steel or iron , which use for our building , it can make it stronger and not easy to destroy ."|19 21|. They|R:OTHER|R:PUNCT|"Science and technology can also used for some material e.g. steel or iron , which use for our building , it can make it stronger and not easy to destroy ."|19 21|. They|R:OTHER|R:PRON|"Science and technology can also used for some material e.g. steel or iron , which use for our building , it can make it stronger and not easy to destroy ."|26 28|hand|R:OTHER||"Science and technology can give us a lot of good thing for our daily life , make us easy to do thing or work ."|16 19|making it easy for us|R:OTHER||"I will explain these now and want to ask to get some of the money I have given you back ."|11 20|back some of the money|R:OTHER||"The musical show was going to start at 19.30 , but it started t 20:15 ."|13 14|at|R:OTHER|R:SPELL|"We have waited for 45 minutes getting bored for it to start !"|4 12|it to start for 45 minutes, getting bored|R:OTHER||"They said that the time was late and they wanted to go home ."|3 5|it|R:OTHER||"I do n't see it in a normal day , but when I sit and think , its everywhere !"|17 18|it's|R:OTHER|R:SPELL|"It 's not a good example for modern technology , but it 's a piece of technology at last !"|18 19|least|R:OTHER|R:SPELL|"You can reach them whenever you want !"|3 4|anything|R:OTHER|R:PRON|"On the other hand , it usually take much time to get what you exactly want ."|8 9|a lot of|R:OTHER||"It even varys with people whom you shop with ."|3 4|depending on|R:OTHER||"Then , I not only had to wait 45 minutes more than it was expected for the beginning of the show but I realised that the main actor had been replaced by another one ( very bad ) as well ."|12 14||U:OTHER||"Therefore , I have more spare time to enjoy the one I consider as the most important influence technology had in my life : the computer and Internet ."|13 14|to be |R:OTHER||"Now , I will never say again that I do n't know where can I find some information about this or that and when on holidays or every time I make a new friend , I just ask for the email and that 's enough to know we will know about each other soon ."|40 41|e-mail|R:OTHER|R:SPELL|"I am writing in the name of the whole class ."|3 6|on behalf|R:OTHER||"First of al , I want to thank you for the interesting programme , which you already have organised ."|2 3|all|R:OTHER|R:SPELL|"There we can see everything about the latest fashions , leisure and sports wear , make up and hairstyles ."|2 3|will be able to|R:OTHER||"There we can see everything about the latest fashions , leisure and sports wear , make up and hairstyles ."|5 6|connected with|R:OTHER||"The entrance for student is free ."|0 2|Entry|R:OTHER|U:DET|"The entrance for student is free ."|0 2|Entry|R:OTHER|R:NOUN|"in the future it could be that you do n't have to prepare your breakfast by your own , perhaps you just have to press a button when your alarm clock has gone ."|4 6|is possible|R:OTHER||"in the future it could be that you do n't have to prepare your breakfast by your own , perhaps you just have to press a button when your alarm clock has gone ."|16 17|yourself|R:OTHER||"In addition to this you may have some roboters bringing the newspaper at the table , tidying up the house , doing the shopping and maybe they are also your living patners ."|27 29|will also be|R:OTHER||"I am really appreciated to hear that I have won first prize in the competition - two weeks at Camp California in the U.S.A. I am writing this letter to inform you more information about myself ."|3 4|pleased|R:OTHER|R:VERB|"I would prefer the accommodation at Camp California in tents because it would be nice to spend the time living in tents with a nice environment and fresh air ."|3 5|to stay|R:OTHER||"Photography is quite interesting for me to take a photograph in the place where I have never been to ."|6 6|"; I like"|M:OTHER||"Anyway , I would like to know that how many people are joining at this Camp ."|12 14|going to|R:OTHER|R:VERB|"Anyway , I would like to know that how many people are joining at this Camp ."|12 14|going to|R:OTHER|R:PART|"I and my friend - Emma , we helped to paint the scence of the background on the stage ."|13 16||U:OTHER||"As you known , I like drawing and painting when I have a free time so that why I chose to paint the scence of the background ."|24 27||U:OTHER||"And I particularly liked the experience that I helped to screen and paint a picture of "" Bon Jovi "" on every T - shirts which are given to the audiences ."|6 8|of|R:OTHER||"If you are , I 'll tell you in advance ."|8 8|about it|M:OTHER|M:PREP|"If you are , I 'll tell you in advance ."|8 8|about it|M:OTHER|M:PRON|"Because I 'm big fan of them , if was pretty much boring without them and not to mention that it was disappointing ."|8 9|it|R:OTHER|R:SPELL|"Moreover the testament was till under the construction so that we could n't use it when we were extlemely hungry ."|4 5|still|R:OTHER|R:SPELL|"People have invented such things like TV , radio , telephones and so on which made us enable to hear the news quickly and stay in touch with people easily ."|17 18|able|R:OTHER||"Nearly almost of the disease have been found the way to cure except only a few like AIDS ."|1 2|all|R:OTHER||"I have mentioned few changes above but there 's still a biggist one left which is about computer areas ."|16 17|related to|R:OTHER||"I have mentioned few changes above but there 's still a biggist one left which is about computer areas ."|17 19|the field of|R:OTHER||"It will give me an adventure feeling and I have always prefered tents to log cabins ."|4 7|a feeling of adventure|R:OTHER||"This included to clean up the rooms which were used by the singers and put some equipment on the stage ."|2 4|cleaning|R:OTHER||"And I managed to speak to Ricky Martin out of stage ."|8 11|backstage|R:OTHER||"Probably it was n't so nice to do jobs which you were told to do , but you see many stars out of stage ."|21 24|backstage|R:OTHER||"And you might manage to speak to some pop - stars ."|2 4|had a chance|R:OTHER||"After that one of the theatre assistants told us that the film would have began at 20:15 o'clock instead of 19:30 o'clock as indicated ."|23 24|advertised|R:OTHER|R:VERB|"You can imagine how disappointed we were especially the acting of Danny Brook was the main reason for us to see the musical ."|9 13|Danny Brook's acting|R:OTHER||"In 100 years most of the clothes are made from syntetical material ."|4 6||U:OTHER||"Especially contrast will be attractiv ."|0 4|The contrast will be especially|R:OTHER||"One balance fashion in 100 years time will be confortable and colourful ."|0 1|On|R:OTHER|R:SPELL|"The fashion industry will deliver a wide range of vararity in style , material and colour ."|8 10|variety of|R:OTHER|R:SPELL|"The fashion industry will deliver a wide range of vararity in style , material and colour ."|8 10|variety of|R:OTHER|R:PRON|"I learned so many things about the writers and their ideas , their life styles by talking to them ."|12 12|not to mention|M:OTHER||"Beyond all these , the application of joining all activities by one nice - priced ticket was excellent ; because it saved you from buying one ticket for each activity ."|0 1|In addition to|R:OTHER||"Beyond all these , the application of joining all activities by one nice - priced ticket was excellent ; because it saved you from buying one ticket for each activity ."|12 14|reasonably|R:OTHER||"Beyond all these , the application of joining all activities by one nice - priced ticket was excellent ; because it saved you from buying one ticket for each activity ."|24 25|to buy|R:OTHER||"Next year , I think you should increase the number of shows , concerts and others , also the time spent at the festival ( for example : at least 5 days ) , then everything would be perfect ."|15 16|other things|R:OTHER||"It 's the same here . I 've got too many exams nowadays , but that 's all ."|9 11|a lot of|R:OTHER||"It 's the same here . I 've got too many exams nowadays , but that 's all ."|12 13|at the moment|R:OTHER||"I understand the second part , but I ca n't get the reason of wearing in white an dark blue only ."|14 21|only wearing white and dark blue|R:OTHER||"I have just received your letter and I am writing in response of your questions ."|10 13|to answer|R:OTHER||"I am very easy going and I will be satisfied wherever ."|11 11|I am|M:OTHER||"I am a terrible climber but with a little bit of help I think I can enjoy the activity and have a good time unforgettable ."|24 24|that will be|M:OTHER||"I have a friend and she knows that I speak English so she offered to me work with an English singer so I said "" yes , of course "" ."|21 22|and|R:OTHER|R:CONJ|"He was very kind to me , we talked many things and after the concert he invited all the team to have a dinner , yes I know what you 're thinking , "" Dinner and Sting "" yes my friend it was the best thing in my life ."|24 26|. Yes,|R:OTHER|R:PUNCT|"He was very kind to me , we talked many things and after the concert he invited all the team to have a dinner , yes I know what you 're thinking , "" Dinner and Sting "" yes my friend it was the best thing in my life ."|38 39|. Yes,|R:OTHER|M:PUNCT|"He was very kind to me , we talked many things and after the concert he invited all the team to have a dinner , yes I know what you 're thinking , "" Dinner and Sting "" yes my friend it was the best thing in my life ."|46 46|to happen to me|M:OTHER||"I hope my friend call me again to work because I had a wonderful time and it was a great and unforgettable experience ."|9 9|for him|M:OTHER|M:PREP|"I hope my friend call me again to work because I had a wonderful time and it was a great and unforgettable experience ."|9 9|for him|M:OTHER|M:PRON|"She lived next to my house and we went to the same school ."|3 6|door|R:OTHER||"She helped me to forget it for a few minutes , she made me to laugh and the she left ."|17 18|then|R:OTHER|R:SPELL|"The other morning I went to school and all the students came next to me and told me not to be mad because of my parents ."|12 13|up|R:OTHER|R:PREP|"The other morning I went to school and all the students came next to me and told me not to be mad because of my parents ."|21 22|upset|R:OTHER|R:ADJ|"In the name of the class I would like to thank you for the excellent programme you have organised , especially the idea of visiting a galery ."|0 3|on behalf|R:OTHER||"It is a famous exhibition , where are showed latest fashions , leisure and sports wear , make up and hairstyles ."|7 21|the latest fashions, leisure and sportswear, make-up and hairstyles are shown|R:OTHER||"We are all very interested in the show because England people have a different kind of life ."|9 10|English|R:OTHER|R:MORPH|"We may go earlier to the Museum or on the 15th March instead of the afternoon free time ."|16 16|during our|M:OTHER||"I'am looking forward to hearing from you ."|0 1|I am|R:OTHER|R:SPELL|"I had always wanted to swim in the middle of sharks ."|6 10|with|R:OTHER||"In order to the prize , I would like to travel , if it is possible , on July because I am a student and my winter brake is taking place during this month , July ."|29 31||U:OTHER||"I would prepare to stay in a cabin because I have not got really good experiences in camping in tents , last time a bear came inside while I was in ."|12 14|really had|R:OTHER||"I would prepare to stay in a cabin because I have not got really good experiences in camping in tents , last time a bear came inside while I was in ."|31 31|the tent|M:OTHER|M:DET|"I would prepare to stay in a cabin because I have not got really good experiences in camping in tents , last time a bear came inside while I was in ."|31 31|the tent|M:OTHER|M:NOUN|"Since the man become man he has had the need of hunting for sourvive , in ancient times he used spears , bows and arrows , and the wemon 's role was to collect items like vegetables and stuff ."|7 9||U:OTHER|U:VERB|"Since the man become man he has had the need of hunting for sourvive , in ancient times he used spears , bows and arrows , and the wemon 's role was to collect items like vegetables and stuff ."|7 9||U:OTHER|U:DET|"Since the man become man he has had the need of hunting for sourvive , in ancient times he used spears , bows and arrows , and the wemon 's role was to collect items like vegetables and stuff ."|11 12|to hunt|R:OTHER|R:VERB:FORM|"Since the man become man he has had the need of hunting for sourvive , in ancient times he used spears , bows and arrows , and the wemon 's role was to collect items like vegetables and stuff ."|13 14|to survive|R:OTHER||"Any ways shopping is with us and it will stay with us for a long time ."|0 2|Anyway|R:OTHER|R:ORTH|"Any ways shopping is with us and it will stay with us for a long time ."|0 2|Anyway|R:OTHER|R:SPELL|"I used to be the captain of the selection of bascketball in my school , because I was the best to play , and I think I can still remember how to play ."|8 11|basketball team|R:OTHER|R:SPELL|"I used to be the captain of the selection of bascketball in my school , because I was the best to play , and I think I can still remember how to play ."|8 11|basketball team|R:OTHER|M:NOUN|"I used to be the captain of the selection of bascketball in my school , because I was the best to play , and I think I can still remember how to play ."|20 22|player|R:OTHER||"I think that 's all , and I look foreword to hearing from you soon ."|9 10|forward|R:OTHER|R:SPELL|"This cituation is very annoying for most of the people , and that 's what makes shopping unejoyable ."|7 9||U:OTHER||"I 'm very much surprised to receive your letter announcing the first prize in your competition and I 'm looking forward to spend the two weeks at Camp California ."|11 11|winner of the|M:OTHER|M:NOUN|"I 'm very much surprised to receive your letter announcing the first prize in your competition and I 'm looking forward to spend the two weeks at Camp California ."|11 11|winner of the|M:OTHER|M:PREP|"I 'm very much surprised to receive your letter announcing the first prize in your competition and I 'm looking forward to spend the two weeks at Camp California ."|11 11|winner of the|M:OTHER|M:DET|"I have no previous experience on it but I wish I 'd learn a lot ."|10 12||U:OTHER||"The opening time recording the students while they meet outside the school and come in could be a good begining ."|2 3|of the school|R:OTHER||"When the show ended I went to visit the theatre restaurant I could not get in because it was closed as the chef of the restaurant was not there ."|22 26|the restaurant's chef|R:OTHER||"In the future , it will be able to help people even more since it has been increasing its capacity day after day ."|18 20||U:OTHER|U:PRON|"In the future , it will be able to help people even more since it has been increasing its capacity day after day ."|18 20||U:OTHER|U:NOUN|"Furthermore , it 's worthful experience for people to know the other countries ' arts ."|8 8|who want|M:OTHER|M:PRON|"Furthermore , it 's worthful experience for people to know the other countries ' arts ."|8 8|who want|M:OTHER|M:VERB|"But I would like to suggest some requests for the festival ."|8 9|regarding|R:OTHER||"Finally , regards to tickets , it is very wonderful idea because it is more combinient to enjoy the festival for one day among a lot of people ."|2 3|with regard|R:OTHER|M:PREP|"Finally , regards to tickets , it is very wonderful idea because it is more combinient to enjoy the festival for one day among a lot of people ."|2 3|with regard|R:OTHER|R:SPELL|"One day , when the old man went into the bambo bush , he found one bambo gritted white ."|15 16|some|R:OTHER|R:DET|"I'M AFRAID I CAN ONLY GO ON JULY BECAUSE DURING THAT TIME I WILL HAVE HOLIDAYS FROM SCHOOL ,"|15 18|school holidays|R:OTHER||"SO THAT WILL FOR ME THE ONLY POSSIBILITY TO TAKE 2 WEEKS OFF ."|8 10|taking|R:OTHER|R:VERB:FORM|"THE KIND OF ACCOMODATION I PREFER IS IN A TENT BECAUSE IN A SOMMER CAMP I FIND IT MORE INTERESTING SLEEPING ' OUTSIDE ' UNDER THE SKY WHEN THE WEATHER IS NICE AND WARM ."|11 12|AT|R:OTHER|R:PREP|"THE KIND OF ACCOMODATION I PREFER IS IN A TENT BECAUSE IN A SOMMER CAMP I FIND IT MORE INTERESTING SLEEPING ' OUTSIDE ' UNDER THE SKY WHEN THE WEATHER IS NICE AND WARM ."|21 24|OUTSIDE|R:OTHER|U:PUNCT|"IM QUITE GOOD PLAYING BASKETBALL BECAUSE I USED TO PLAY FOR ABOUT FIVE YEARS AT SCHOOL , WE USED TO HAVE TRAININGS TWICE A WEEK AND AT LEAST TWO GAMES AT MONTH AGAINST ANOTHER SCHOOLS , WHICH WAS GREAT ."|30 31|A|R:OTHER|R:SPELL|"PAINTING ALWAYS DID FASCINATED ME , EVEN I'M NOT SO GOOD ON IT , BUT MY FRIENDS THEY SAY I CAN REALLY PAINT AND THEY LOVE THE THINGS I DO , THE TECHNIK I LIKE THE MOST IS WATERCOLORS ."|11 12|AT|R:OTHER|R:PREP|"- MY PARENTS AND ME WE ARE NOT SURE HOW MUCH MONEY DO I NEED FOR THE TWO WEEKS , CAN YOU GIVE ME A LITTLE HELP ? THANK YOU VERY MUCH AND I HOPE HEARING FROM YOU SOON ."|4 5|I|R:OTHER|R:PRON|"- MY PARENTS AND ME WE ARE NOT SURE HOW MUCH MONEY DO I NEED FOR THE TWO WEEKS , CAN YOU GIVE ME A LITTLE HELP ? THANK YOU VERY MUCH AND I HOPE HEARING FROM YOU SOON ."|4 5|I|R:OTHER|U:PRON|"- MY PARENTS AND ME WE ARE NOT SURE HOW MUCH MONEY DO I NEED FOR THE TWO WEEKS , CAN YOU GIVE ME A LITTLE HELP ? THANK YOU VERY MUCH AND I HOPE HEARING FROM YOU SOON ."|35 36|TO HEAR|R:OTHER|R:VERB:FORM|"FIRST WE STARTED VERY EARLY IN THE MORNING BUILDING UP THE STAGE AND THE TENT WHERE THE GROUP WAS GOING TO PLAY , YOU KNOW JUST IN CASE THE RAIN WOULD HAVE COME , BUT WE WERE VERY LUCKY AND THE WEATHER WAS SUNNY AND WARM ."|28 33|IT RAINED|R:OTHER||"AT ABOUT FIVE O'CLOCK EVERYTHING WAS READY AND THE BAND CAME IN , THERE WERE ALREADY PLENTY OF ' FANS ' WAITING FOR THE CONCERT TO BEGIN , WHICH STARTED AT 7 O'CLOCK ."|18 21|FANS|R:OTHER|U:PUNCT|"I KNOW THE MUSICIANS FROM THE SCHOOL TIME , THAT 'S WHY IT WAS EVEN MORE FUN TO HELP AND TO TAKE PART ON THIS EVENT , SPECIALLY BECAUSE I REALLY LIKE THE MUSIC THEY PLAY ."|9 11|WHICH IS|R:OTHER|R:PRON|"I KNOW THE MUSICIANS FROM THE SCHOOL TIME , THAT 'S WHY IT WAS EVEN MORE FUN TO HELP AND TO TAKE PART ON THIS EVENT , SPECIALLY BECAUSE I REALLY LIKE THE MUSIC THEY PLAY ."|9 11|WHICH IS|R:OTHER|R:SPELL|"THE PEOPLE WENT CRAZY DURING THE 2 HOURS CONCERT AND AT LEAST I HELPED AS WELL SELLING CD 'S , IF THEY WERE ON SELLING THAT MUCH , THEY ARE GOING TO BE FOR SURE VERY FAMOUS ....."|6 8|2-hour|R:OTHER|R:ORTH|"THE PEOPLE WENT CRAZY DURING THE 2 HOURS CONCERT AND AT LEAST I HELPED AS WELL SELLING CD 'S , IF THEY WERE ON SELLING THAT MUCH , THEY ARE GOING TO BE FOR SURE VERY FAMOUS ....."|10 12||U:OTHER||"THE PEOPLE WENT CRAZY DURING THE 2 HOURS CONCERT AND AT LEAST I HELPED AS WELL SELLING CD 'S , IF THEY WERE ON SELLING THAT MUCH , THEY ARE GOING TO BE FOR SURE VERY FAMOUS ....."|26 27|many|R:OTHER|R:PRON|"When I went to that theatre I was very excited because I was thinking I would see my favourite musical star , someone actually did n't appear , I noticed there in the show , someone completely different of him so I felt bad ."|30 31|that|R:OTHER||"When I went to that theatre I was very excited because I was thinking I would see my favourite musical star , someone actually did n't appear , I noticed there in the show , someone completely different of him so I felt bad ."|35 35|there was|M:OTHER||"I bought my tickets , I noticed I did n't have any discounts as it was written on the folder ."|14 15|the one that|R:OTHER||"After all the inconvenients that made me feel really mad . I think I can forgive your theatre , only if you give me a refund of the money I spent there , and some other more for all the problems I had ."|15 20|only forgive your theatre|R:OTHER||"As far as I am concerned , I would prefer an accomodation in a log cabin , but in case there are no cabins left I can stay in a tend as well ."|10 12|to stay|R:OTHER||"Anyway if you can choose the time and the place , and if you go shopping just because you like it , and not because you need it , shopping can be a very nice activity ."|27 28|to|R:OTHER||"When the show started the starring was wrong because it said that act Danny Brook and Tina Truelove and Danny Brook did'n act , it was another actor that nobody knew , "" Really this is very disappointing "" ."|21 22|did n't|R:OTHER|R:ORTH|"All started when Pat , the best friend of Nick , wanted to make the party in his house , most of the class disagree with that because the house of Pat is extremly little , they started to say him that his house was like a box ."|5 10|Nick's best friend|R:OTHER||"All started when Pat , the best friend of Nick , wanted to make the party in his house , most of the class disagree with that because the house of Pat is extremly little , they started to say him that his house was like a box ."|29 32|Pat's house|R:OTHER||"Pat affected with this situation told Nick all the situation and the secret of the class ."|12 16|class secret|R:OTHER||"At the beginning Nick got angree but then he forgive him because they were friend and each of one can trust on the other ."|1 3|first|R:OTHER||"At the beginning Nick got angree but then he forgive him because they were friend and each of one can trust on the other ."|18 19|them|R:OTHER|R:PRON|"Nick told the situation to the class and ofered his house to do the party , because was very big , with large gardens and a big swimingpool ."|11 13|for|R:OTHER||"The day of the party all had fun especially Pat that at the beggining was sad ."|5 6|everyone|R:OTHER|R:PRON|"The day of the party all had fun especially Pat that at the beggining was sad ."|10 11|who|R:OTHER|R:PRON|"The day of the party all had fun especially Pat that at the beggining was sad ."|11 14|to start with|R:OTHER||"I , actually , was n't disappointed ."|0 4|Actually, I|R:OTHER|R:WO|"What 's more , you had better have done them if you would have to go to the blackboard !"|10 11|or|R:OTHER||"I do n't really want to change that , I think it is just like this ."|13 14|fair|R:OTHER||"Owing toe the summer course I take starting in August , July is the only month I have free time ."|1 2|to|R:OTHER|R:SPELL|"If you are lucky enough , you might find them within 30 minutes , but if you do n't , you might have to keep walking for several hours and still could n't find ones ! !"|31 33|not |R:OTHER||"If you are lucky enough , you might find them within 30 minutes , but if you do n't , you might have to keep walking for several hours and still could n't find ones ! !"|34 35|any|R:OTHER||"First of all , the show began three quarters of an hour late : it started at quarter past eight instead of half past seven , what of course was very bothering ."|31 32|annoying|R:OTHER|R:ADJ|"There were supposed to be discounts for the tickets , what appeared to be wrong to ."|15 16|too|R:OTHER|R:SPELL|"First off all , if computers haden't been invented , I would n't spend half of the day in front of it !"|1 2|off|R:OTHER|R:SPELL|"First off all , if computers haden't been invented , I would n't spend half of the day in front of it !"|6 7|hadn't|R:OTHER|R:SPELL|"First off all , if computers haden't been invented , I would n't spend half of the day in front of it !"|21 22|one|R:OTHER||"Precision industry has changed my life a lot too . I practicate Scuba Diving during the week - ends and hollydays ."|16 19|weekends|R:OTHER|R:ORTH|"I 'm so happy and exciting to receive this letter about I 've won the first prize in your competition ."|11 11|the fact that|M:OTHER||"But I never try it before ."|2 4|have never tried|R:OTHER||"We think , that you also would like to go there , when you 'll know about it better ."|16 19|more about it|R:OTHER||"There will be showed the latest fashions ."|0 7|The latest fashions will be shown there|R:OTHER||"So , we think , that it is very good as for you as for us ."|13 14|and|R:OTHER|R:CONJ|"My best friend told me , she met one boy ."|8 9|a|R:OTHER|R:DET|"She told me , that he was hansom , kind , well - understanding ( he understood her from a half of the word ) ; the main was he also liked her very much !"|7 8|handsome|R:OTHER|R:SPELL|"But in three days she hasn't been at home ."|5 8|didn't come|R:OTHER||"In three days of her disappearing the phone has rung ."|8 10|rang|R:OTHER|R:VERB:TENSE|"I took any papers , put them to one bag and without saying anything went to my friend to take something like gun ."|8 9|a|R:OTHER|R:DET|"I took any papers , put them to one bag and without saying anything went to my friend to take something like gun ."|21 21|that|M:OTHER||"We are very grateful to you for these three days that we are going to spend in the English capital , especially because you planned very interesting and different kinds of things to do for all us ."|32 37|for all of us to do|R:OTHER||"It is a very good chance to join this exhibition to see all the new fashion tendences , the latest hairstyles and make up as all we came from many different countries and have not the same customs either ."|33 35|do not have|R:OTHER||"By this way , we would visit the museum as you had planned and n Wednesday afternoon we could use the free time to do some shopping if we wished it ."|14 15|on|R:OTHER|R:SPELL|"They are human beings actually and they need to keep a little bit of pirvacity and freedom in their lifes to continue like normal people , to feel that they are unknown and anonymus and they do not have to wear sunglasses , hats or caps every time they want to go out home not to be recognised .."|51 53|leave|R:OTHER|R:VERB|"They are human beings actually and they need to keep a little bit of pirvacity and freedom in their lifes to continue like normal people , to feel that they are unknown and anonymus and they do not have to wear sunglasses , hats or caps every time they want to go out home not to be recognised .."|54 54|in order to|M:OTHER||"To sum up I would like to say that for me is very difficult which group has the reason but , by the moment , we should try to respect each other and go in the other 's soul to feel like them in those moments we can not understand them ."|16 19|is right|R:OTHER||"About the accommodation , I would prefer staying in tents as I used to during summer holidays when I was a child ."|0 1|Regarding|R:OTHER||"Secondly , I am very interesting in photography because my father is a photographer and we are used to spending time each other ."|21 23|together|R:OTHER||"And nowadays people must do shopping either they like it or not ."|6 7|whether|R:OTHER|R:CONJ|"For people who used to do shopping , going in big stores , I think they like it and they are always looking for fashioned - clothes ."|24 26|fashionable|R:OTHER||"In my opinion , I think people have to do shopping even though they do n't appreciate it very much ."|4 6||U:OTHER||"If these people have a family with children , they must buy some food to feed them even if a supermarket is full of people ."|4 7||U:OTHER||"It will take place in the Central Exhibition Hall on Tuesday on the 14th of March from 10 a.m. to 19 p.m."|20 21|7|R:OTHER||"I would like to sum up by saying that every person , either famous or not , deserves to have a private life without being followed or disturbed ."|12 13|whether|R:OTHER|R:CONJ|"Secondly , the show I went was the evening one , which was supposed to start at 7:30 p.m. but it had a 41 minutes delay and ended up starting at 8.15 p.m."|20 22|there was|R:OTHER||"Secondly , the show I went was the evening one , which was supposed to start at 7:30 p.m. but it had a 41 minutes delay and ended up starting at 8.15 p.m."|23 25|41-minute|R:OTHER|R:SPELL|"Last of all , it said in your advertisement that there is a theatre restaurant after the show but it turned out to be closed because it was redecorating and no annocement was made ."|28 29|being redecorated|R:OTHER|R:VERB:TENSE|"Last of all , it said in your advertisement that there is a theatre restaurant after the show but it turned out to be closed because it was redecorating and no annocement was made ."|28 29|being redecorated|R:OTHER|R:VERB:FORM|"Your Sincelery ,"|0 1|Yours|R:OTHER|R:SPELL|"Nowaday , people look at fashion - magesins or get opinions from their friends to decide what to wear in different occasions"|6 8|magazines|R:OTHER|R:SPELL|"Nowaday , people look at fashion - magesins or get opinions from their friends to decide what to wear in different occasions"|14 14|to help them|M:OTHER||"Will they still do the same 100 years later ?"|8 9|from now|R:OTHER||"In my opinion , I think clothes will be a lot differente 100 years later compare to now ."|4 6||U:OTHER||"In my opinion , I think clothes will be a lot differente 100 years later compare to now ."|14 18|time|R:OTHER||"As new materials are made and new styles are created either by designers or people themselves which leads to changes in fashion but on the other hand come materials will probably still be used such as jeans , which was invented ages ago in America ."|23 27|in addition|R:OTHER||"so if you want to know what clothes will be like 100 year later , the only thing you can do is to WAIT !"|13 14|from now|R:OTHER||"For the accomodation at Camp California , I will prefer to have a log cabin because I think it is more comfortable than a tent , and in case it has a big storm with a heavy rain it 's more resistant than a tent ."|29 30|there|R:OTHER||"For the accomodation at Camp California , I will prefer to have a log cabin because I think it is more comfortable than a tent , and in case it has a big storm with a heavy rain it 's more resistant than a tent ."|38 39|. A log cabin|R:OTHER||"For the activities , I chose climbing because I took cours during 2 weeks last year and now I have a good level , for the other one I chose photography but I am not a proffesional , I just take some pictures in my holiday !"|23 23|of proficiency |M:OTHER|M:PREP|"For the activities , I chose climbing because I took cours during 2 weeks last year and now I have a good level , for the other one I chose photography but I am not a proffesional , I just take some pictures in my holiday !"|23 23|of proficiency |M:OTHER|M:NOUN|"I have a little question , could you tell me if and how money I need to take with me , and which kind of clothes ?"|10 12||U:OTHER||"The next weekend I have an appointment with one them , but I do n't tell you the name because you 'll fell jalous !"|5 7|a date|R:OTHER|R:DET|"The next weekend I have an appointment with one them , but I do n't tell you the name because you 'll fell jalous !"|5 7|a date|R:OTHER|R:NOUN|"It 's good to walk around looking all the news in the stores ."|9 10|new things|R:OTHER|R:NOUN:NUM|"It 's good to walk around looking all the news in the stores ."|9 10|new things|R:OTHER|M:NOUN|"Your sincerely"|0 2|Yours faithfully|R:OTHER|R:SPELL|"Your sincerely"|0 2|Yours faithfully|R:OTHER|R:ADJ|"My jobs were collecting a ticket , saling goods and refreshment , guiding people to a right seat and cleaning up the concert hole after finish a concert ."|25 28|the concert finished|R:OTHER||"First of all , I would like to say thank you to you Mr Robertson for planning to take us to spend three days in London ."|21 26|London for three days|R:OTHER||"We would like to ask you whether we can change some programme ."|11 11|of the|M:OTHER|M:PREP|"We would like to ask you whether we can change some programme ."|11 11|of the|M:OTHER|M:DET|"Although , their news on the front page of a magazine can catch the eyes of public so that people will never forget them ."|0 1|However|R:OTHER||"On the other hand , their story always make them embarras because most of the journalists create their own story base on the true story just to get attraction from people ."|28 31|people's attention|R:OTHER||"I went to see it on time as it was written 19:30 but it started t 20:15 with a delay of 45 minutes ."|15 16|at|R:OTHER|R:SPELL|"As well as you can understand I did not enjoy myself and I think I spent my money for a nonsense thing ."|1 3||U:OTHER||"I went to the theatre restaurant after the show but it was closed because of the re - decoration progress inside ."|16 19|redecoration|R:OTHER|R:SPELL|"I went to the theatre restaurant after the show but it was closed because of the re - decoration progress inside ."|19 20|works|R:OTHER|R:NOUN|"The internet is the world 's largest communication system ever made ."|9 11||U:OTHER||"Internet brought a new way to my live since I started to use it ."|7 8|life|R:OTHER|R:SPELL|"Techology is also important in one subject for me ."|5 6|another|R:OTHER||"He went to see the headmaster and told him all the truth ."|9 11|the whole|R:OTHER||"The headmaster went to see Jon and Tim and punished their bad behaviours ."|10 10|them for|M:OTHER|R:PRON|"The headmaster went to see Jon and Tim and punished their bad behaviours ."|10 10|them for|M:OTHER|M:PREP|"The show had a 45 minutes delay - what a shame !"|4 6|45-minute|R:OTHER|R:SPELL|"I haven't seen any !"|1 3|didn't see|R:OTHER|R:VERB:TENSE|"I was with my son ( 11 years old ) and I had to paid a full - prize for his ticket ."|15 20|for a full price|R:OTHER||"I had not any money for travelling but my parents were able to give me them if I only had a concret plans ."|11 12|going |R:OTHER||"I started talking with my parents that I will be travelling with my friends through West - Europe for one month ."|2 4|telling|R:OTHER|R:VERB|"I started talking with my parents that I will be travelling with my friends through West - Europe for one month ."|2 4|telling|R:OTHER|U:PREP|"After one mounth I came home back and explained my parents how a lot of fun had I with my friends - I do n't know why I was such a lair ."|11 12|what|R:OTHER|R:PRON|"My parents belived my word 's untill my younger brother Pat told them the true ."|4 6|story|R:OTHER|R:NOUN|"But I think , this was a good lesson for me and I lair any more ."|13 13|don't|M:OTHER||"The reason for which I decided to write you a letter , will , I guess , surprise you ."|2 4||U:OTHER||"It was very excited thinking about being at the theatre , and I though with certainty I was going to enjoy my evening ."|13 14|thought|R:OTHER|R:SPELL|"Plus , I felt very pleased when I heard that Danny Brook was part of the play : he used to be an old friend of mine in Highschool and perchance I have found him back here !"|30 31|perhaps|R:OTHER||"I guess I could not live without many instruments ."|7 8|lots of|R:OTHER||"It allows me to learn anything without having to travel through many libraries as I used to do ."|11 12|lots of|R:OTHER||"Nevertheless , this easy life has then offered me to be more peaceful and I think it is essential ."|9 9|the chance|M:OTHER|M:DET|"Nevertheless , this easy life has then offered me to be more peaceful and I think it is essential ."|9 9|the chance|M:OTHER|M:NOUN|"I am writing to thank you to send me all the details about my prize and I 'd like to give you a complete information about the journey will be done by myself ."|22 24|all the|R:OTHER||"Related with accommodation , I 'd prefer to stay in log cabins ."|0 2|Regarding|R:OTHER||"The first one is for my mental health , I need a break in my style of life ."|15 18|lifestyle|R:OTHER||"Eventually , I 'd like to request to have special food , because and vegetarian person , besides I try to eat just organic food ."|13 14|I'm a|R:OTHER||"I was running all the show , my responsability was to get dress her ."|3 5|the whole|R:OTHER||"We had to take of some clothes and then to put on others ones completly different , in just few minutes ( similar to Formula One ) ."|13 16|completely different ones|R:OTHER||"I was exhausted when the concert finished , anyway it has been one of my best experience and I 'll remember for life ."|22 23|ever|R:OTHER||"Finally , I send you all my positive energy and I am looking forward to receiving your letter back ."|17 19|reply|R:OTHER||"This festival was well - orginised ."|4 6|organised|R:OTHER|R:SPELL|"From my point of view I can complain only on a small concert hall and there were artist from only six countries ."|15 15|the fact |M:OTHER|M:DET|"From my point of view I can complain only on a small concert hall and there were artist from only six countries ."|15 15|the fact |M:OTHER|M:NOUN|"You wrote an advertisment that people from more than 15 deferent countries were going to visit this concert , but there were artists only from 6 countries ."|10 11|different|R:OTHER|R:SPELL|"The International Arts Festival was organised quite well . I would only recomended you to have more artists and a classical concert should be in bigger hall than it was ."|27 30||U:OTHER||"There names were Ivan and Maria ."|0 1|Their|R:OTHER|R:SPELL|"They were so pour that somitimes they hardly had something to eat ."|3 4|poor|R:OTHER|R:SPELL|"It was n't usual fish , it was Gold Fish and it asked him as human ; ' Please , let me go and I can do for you anything you want ' ."|12 13|talked to|R:OTHER|R:VERB|"It was n't usual fish , it was Gold Fish and it asked him as human ; ' Please , let me go and I can do for you anything you want ' ."|12 13|talked to|R:OTHER|M:PREP|"But Ivan was so kind person that he let Gold Fish went without any condition ."|3 4|such a|R:OTHER||"She said that it was n't enough what Gold Fish had done for her ."|3 14|what Gold Fish had done for her wasn't enough|R:OTHER||"Despite we are actors we had to pay a full ticket because the discounts you promise are not available on Sundays ."|10 10|price|M:OTHER||"You can imagine how were our faces like when we saw that it was not Danny , but Peter Fox , who was on the stage ."|3 4|what|R:OTHER|R:ADJ|"You can imagine how were our faces like when we saw that it was not Danny , but Peter Fox , who was on the stage ."|3 4|what|R:OTHER|R:PRON|"I am sure that the restaurant closed at its closing - hour but you have to remember that the show began 45 minutes late ."|10 12|time|R:OTHER||"Technology makes easier the work at home ."|2 7|housework easier|R:OTHER||"While I was studying at the high school and the university , I was in the swimming team of the school ."|18 21||U:OTHER||"When you ask some people to learn their opinions about shopping they can tell you they do n't like shopping but I suppose it is not true ."|22 26|don't suppose it is|R:OTHER||"For example me , when someone asked me about shopping I would say that I had n't liked it ."|15 18|didn't like|R:OTHER|R:VERB:TENSE|"When we asked for discounts tickets , we were said there never were discount offers and that we had to pay the highest tickets - £ 20 each - because we were not English students ."|22 23|most expensive|R:OTHER|R:ADJ|"When we asked for discounts tickets , we were said there never were discount offers and that we had to pay the highest tickets - £ 20 each - because we were not English students ."|22 23|most expensive|R:OTHER|R:ADJ:FORM|"So I want my money back for these two tickets - I have included a copy - and I hope you will pay more attention to the way you treat your customers , and avoid false advertisement ."|16 16|of them|M:OTHER|M:PREP|"So I want my money back for these two tickets - I have included a copy - and I hope you will pay more attention to the way you treat your customers , and avoid false advertisement ."|16 16|of them|M:OTHER|M:PRON|"Materials , textures and colours change , and are minds too ."|8 9|our|R:OTHER|R:SPELL|"So I think people will wear clothes made of recycled things , like bottles of aluminium ."|13 16|alluminum bottles|R:OTHER||"But maybe the shape of the clothes will changed : large pants as "" baggy "" , or trousers with many pockets as we see today ."|11 16|"""baggy"" clothes"|R:OTHER||"It maybe because they are more likely to try new ways of clothes ."|12 13|dressing|R:OTHER||"To conclude , in the end clothes wo n't be what we think about today , and it 's a good thing because we can only imagine and follow the trend of fashion that makes us feel pretty and happy ."|13 14|they will be|R:OTHER||"I 'm writing because I know that you 're interested in listening my experience in which I enjoyed helping at a pop concert last month , perhaps in the future you 'll be able to help too ."|14 16|when|R:OTHER||"Concerning the two activities I have to choose , I would prefer to swim and play tennis ( I have a good level in each sports ) ."|23 23|of proficiency |M:OTHER|M:PREP|"Concerning the two activities I have to choose , I would prefer to swim and play tennis ( I have a good level in each sports ) ."|23 23|of proficiency |M:OTHER|M:NOUN|"Many classes and activities are important in our school But I have to make a choice in order to select them The class of mecanics seem to be the more important lesson ."|22 25|engineering class|R:OTHER||"Besides it gives all the areas covered by a mecanic ingenier and it is very important in a school where you will probably become a mecanic ingenier It lets us specify our abilities in the part of mecanics that we prefer ."|9 11|mechanical engineer|R:OTHER|R:ADJ|"Besides it gives all the areas covered by a mecanic ingenier and it is very important in a school where you will probably become a mecanic ingenier It lets us specify our abilities in the part of mecanics that we prefer ."|25 27|mechanical engineer|R:OTHER|R:SPELL|"Besides it gives all the areas covered by a mecanic ingenier and it is very important in a school where you will probably become a mecanic ingenier It lets us specify our abilities in the part of mecanics that we prefer ."|33 34|and|R:OTHER||"If it would be possible I wish I travel in July because I have planned my holidays this month at work and I would not be able to remove them for accommodation , I would choice the log cabin , I am not very fond of "" adventure "" , that is why tents are not for me ."|30 31|. Regarding|R:OTHER||"( I guess that you should n't borrow some !"|8 9|one|R:OTHER|R:PRON|"About tennis , I play for eight years and I am used to sit for competition ."|0 1|Regarding|R:OTHER||"About tennis , I play for eight years and I am used to sit for competition ."|10 13|used|R:OTHER|R:VERB:TENSE|"To finish , I wonder if I need to bring some money or if all has been already payed and what kind of clothes should I bring ?"|14 15|everything|R:OTHER||"Nevertheless , we should not forget the extra - life school . We have to show sports at school and all activities that we are offered ."|9 10|curricular life at |R:OTHER||"There are not only the brain which should be trained ."|0 1|It|R:OTHER||"I have received your letter about the competition ' two weeks at Camp California ' - I am very glad to know to have won the first prize !"|22 22|that I|M:OTHER||"In the following you can find , I hope , call the information you need to complete the partecipation procedure ."|10 11|all|R:OTHER|R:SPELL|"If possible , the accomodation I prefer is in tent ."|4 4|type of|M:OTHER|M:NOUN|"If possible , the accomodation I prefer is in tent ."|4 4|type of|M:OTHER|M:PREP|"If possible , the accomodation I prefer is in tent ."|8 9|a|R:OTHER||"there are two main reasons for the choice : I am very keen on camping in high mountains and hills and I am very skilled in all the relative activities : building - up the tent , cooking on camp and so on ."|31 33|putting|R:OTHER|R:VERB|"there are two main reasons for the choice : I am very keen on camping in high mountains and hills and I am very skilled in all the relative activities : building - up the tent , cooking on camp and so on ."|31 33|putting|R:OTHER|U:PUNCT|"Furthermore I have several personal objects that play a fundamental role in the camp daily life ( the tent , the sleep bag and so on . ) ."|13 16|daily life of the camp|R:OTHER||"Indeed , I like the water sport and I am a quite good guitar singer - Some questions : What about the average temperature at the camp on July ?"|20 21|is|R:OTHER||"How much money may be useful at the camp ?"|3 6|will I need|R:OTHER||"Our school , as it is well known , is a technical school and consequently the daily life contains different activities performed in the classrooms or in the laboratories ."|18 19|consists of|R:OTHER|R:VERB|"Our school , as it is well known , is a technical school and consequently the daily life contains different activities performed in the classrooms or in the laboratories ."|18 19|consists of|R:OTHER|M:PREP|"Here we can describe some lessons or other activities which can be filmed to create the video ."|13 15|for|R:OTHER||"The mathematical lessons are divided in two part : the theoretical one where the definitions and the theorems are presented to students and the numerical one where the problems are solved and the applications are explained ."|1 2|maths|R:OTHER||"Two particular activities are performed in the laboratory of physics and in the laboratory of chemistry ."|7 16|physics laboratory and the chemistry laboratory |R:OTHER||"I would like to say "" thank you "" for this London trip plan ."|11 14|plan for a trip to London|R:OTHER||"Especially the boat trip on river is a good idea because we all want to see Greenwich ."|6 6|. This|M:OTHER|M:PUNCT|"Especially the boat trip on river is a good idea because we all want to see Greenwich ."|6 6|. This|M:OTHER|M:DET|"We also enjoy the idea of going to the National Art Gallery and sightseeing by bus ."|2 3|like|R:OTHER|R:VERB|"Joining this fashion and leisure show , we will get the chance to see a lot of enjoyable and different things , such as new hair styles and make up ways , or what is fashion in London recently ."|34 38|what the fashions in London are|R:OTHER||"Joining this fashion and leisure show , we will get the chance to see a lot of enjoyable and different things , such as new hair styles and make up ways , or what is fashion in London recently ."|38 39|at the moment|R:OTHER||"Although human is a social creature , all people need an area to be able to stay away from other people ."|12 12|in which they |M:OTHER||"Although human is a social creature , all people need an area to be able to stay away from other people ."|12 15|can|R:OTHER||"I am quiet sure , even the ones , who have chosen their occupies just to be famous , do n't like to be pictured when they believe they are alone ."|2 3|quite|R:OTHER|R:SPELL|"The situation much be much worse for the ones who have become famous without desiring this ."|2 3|must|R:OTHER|R:SPELL|"She loved the idea and said she had differents shows so to decide which could be the most suitable ."|8 9|various|R:OTHER|R:ADJ|"She loved the idea and said she had differents shows so to decide which could be the most suitable ."|11 11|could|M:OTHER|M:PRON|"She loved the idea and said she had differents shows so to decide which could be the most suitable ."|11 11|could|M:OTHER|M:VERB|"I told her to make me a phone cold ."|6 9||U:OTHER||"I am writing to reply on your letter concerned about the holidays at Camp California in the U.SA as a first prize in the competition which I fortunately won last month ."|18 19|which is|R:OTHER||"First of all , I want to know if it is possible to travel in July because during that month I will be free from the school 's activities so my parents just let me go if I do not have to miss any of my classes ."|29 30|and |R:OTHER|R:CONJ|"The other activity that I chose is painting , I am not as well as I want , nevertheless I think I can inprove my skills during this course ."|13 14|good|R:OTHER||"I would rather tends than log cabins for accommodation because the last summer I had the great opportunity to be in a log cabin and now I want to know the other one ."|3 4|tent|R:OTHER|R:SPELL|"I am sure it will be thrilling to stay near the nature and at the same time , it would be a new experience for me ."|9 11|close to |R:OTHER||"I would like to know how is the weather in California during the summer to bring with me appropiate clothes and the last thing I need to know , is the amount of money that I have to bring with me ."|14 15|so I can |R:OTHER||"1- It would be a good idea to film the computer centre , the listening room room and the library because as everybody knows , they have very good equipment and also they are comfortable places helping them to improve their English on their own ."|37 38|the students|R:OTHER||"3 - The least but not the last , a lot of students ( almost 85% ) think that the extra - activities organised by the social programme , has became really exciting , so they suggest filming these activites during the weekend , for example "" the full day in Oxford "" because for those that did not have the opportunity to go there , could see how great it was and then they can attend the next time ."|2 8|Last but not least|R:OTHER||"Despite of being almost 300 students , the answers were quite similar ."|1 2|there|R:OTHER||"Few weeks ago , me and my farmily had a hoilday in London , the hoilday was n't too good !"|4 8|my family and I |R:OTHER||"During the week we descide where we want to go , we all agree to listen to music so than we descide to come to your musical show and listen to "" Over the Rainbow "" ."|19 20|then |R:OTHER|R:SPELL|"That evening we do n't want to have our supper before the show Anyway I though it will be too early to eat and also because the time table or canidates you give me have say : "" visit our theatre restaurant after the show "" ."|15 16|thought |R:OTHER|R:SPELL|"so we did , but unforturnily it was close and I was so dissapointed about it , nor only that we have expected Danny Brook and Tina Truelove to be the actor of starring ."|17 18|not|R:OTHER|R:SPELL|"P.S. please would you like to explain why ?"|8 8|this happened|M:OTHER|M:DET|"P.S. please would you like to explain why ?"|8 8|this happened|M:OTHER|M:VERB|"In order to live happily the sciencetist can easily perdict the changes on earth , so than we can have time to perpare or defence our self from the Natural diseasters ."|0 2|To help us|R:OTHER||"In order to live happily the sciencetist can easily perdict the changes on earth , so than we can have time to perpare or defence our self from the Natural diseasters ."|25 27|ourselves |R:OTHER|R:SPELL|"In order to live happily the sciencetist can easily perdict the changes on earth , so than we can have time to perpare or defence our self from the Natural diseasters ."|25 27|ourselves |R:OTHER|R:ORTH|"Wapons were designed to kill and defences in a fright , in War 1945 so many German were killed , also many people die from other region ."|6 7|defend|R:OTHER||"Wapons were designed to kill and defences in a fright , in War 1945 so many German were killed , also many people die from other region ."|12 14|the Second World War|R:OTHER||"Wapons were designed to kill and defences in a fright , in War 1945 so many German were killed , also many people die from other region ."|0 1|Weapons|R:OTHER|R:SPELL|"Posin chemical compounds e.g. gases , liquids , are created too , they were use to kill people , most of them give radiration which can disable the person , mostly harm their brain and their bodys and it could also cause deaths ."|5 6|and|R:OTHER||"Communication techology e.g. internet ( networks ) , moible phones ."|7 8|and|R:OTHER||"In the wars soilors were communicate with moible phones though places to place to get or give information about them self and the enarmys ."|19 21|themselves|R:OTHER|R:SPELL|"In the wars soilors were communicate with moible phones though places to place to get or give information about them self and the enarmys ."|19 21|themselves|R:OTHER|R:ORTH|"By using internet we could make new pen friends oversea , creat club , sociatys ."|13 14|and|R:OTHER||"Now megsage can travel quicker and it is also world wild . send letters takes about aweek to HongKong from U.K. , but net work eg ."|9 11|worldwide|R:OTHER|R:SPELL|"Now megsage can travel quicker and it is also world wild . send letters takes about aweek to HongKong from U.K. , but net work eg ."|9 11|worldwide|R:OTHER|R:ORTH|"Now megsage can travel quicker and it is also world wild . send letters takes about aweek to HongKong from U.K. , but net work eg ."|17 20|from Hong Kong to|R:OTHER||"Now megsage can travel quicker and it is also world wild . send letters takes about aweek to HongKong from U.K. , but net work eg ."|25 27|e.g. |R:OTHER|R:ORTH|"require time is about few minutes ."|0 2|The time required|R:OTHER||"require time is about few minutes ."|3 4|only a|R:OTHER||"Modern technology save us alot of times and give us many benifects when we use it in a right correct ways , but some bad way to e.g. send virse to break down network ."|2 3|saves |R:OTHER|R:VERB:INFL|"Modern technology save us alot of times and give us many benifects when we use it in a right correct ways , but some bad way to e.g. send virse to break down network ."|2 3|saves |R:OTHER|U:PRON|"When the show had finished we decided to go for a snack to the theatre restaurant and it was closed without giving any reason for it ."|24 26||U:OTHER||"My and my friends , including Pat , were preparing a surprise for Sam 's birthday ."|0 1|I|R:OTHER||"Everybody was excited about the idea and we were keeping it in secret in front of Sam ."|11 12|a|R:OTHER||"With reference to our trip in London , in name of all of us , English class in this college , we would like to thank you for your special atention in have organised a good programme to know interesting and cultural points in London ."|8 10|on behalf |R:OTHER||"With reference to our trip in London , in name of all of us , English class in this college , we would like to thank you for your special atention in have organised a good programme to know interesting and cultural points in London ."|38 39|learn about |R:OTHER|R:VERB|"With reference to our trip in London , in name of all of us , English class in this college , we would like to thank you for your special atention in have organised a good programme to know interesting and cultural points in London ."|38 39|learn about |R:OTHER|M:PREP|"We have thought that The London Fashion and Leisure Show would be a great opportunity to give us more information about the main transformation in nowdays in England about fashions , Leisure , sports and style of life ."|28 29|concerning |R:OTHER||"We have thought that The London Fashion and Leisure Show would be a great opportunity to give us more information about the main transformation in nowdays in England about fashions , Leisure , sports and style of life ."|35 38|lifestyle|R:OTHER||"However your decision in changing a little bit our programme , we would suggest just on Tuesday afternoon no doing shop , everything else could stay the same ."|1 1|it is |M:OTHER||"However your decision in changing a little bit our programme , we would suggest just on Tuesday afternoon no doing shop , everything else could stay the same ."|15 21|not going shopping on Tuesday afternoon|R:OTHER||"This sad and unlucky day was on Friday 1998 , it was n't 13th even it look liked , but it was my 25th birthday ."|17 18|like |R:OTHER||"Unfortunately , I 've got a brother who likes to live in dangerous and poor way and I do n't know how , but he could persuade me to go with him to get some drugs , in my 25th birthday ."|25 26|was able to |R:OTHER||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
-|||||
